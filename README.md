@@ -1,2 +1,2 @@
 # resforger
-Resforger is a powerful, intuitive platform that enables users to create, build upon, and refine their resumes easily. Resforger offers simple-to-use tools and editable templates to enable you to present your skills, experience, and accomplishments in a competent and professional way. With the PDF download feature, Resforger allows users to obtain resumes that truly catch the eye of recruiters. 
+Resforger is a platform that enables users to create and refine their resumes easily. Resforger offers tools and editable templates to enable you to present your skills, experience, and accomplishments in a competent and professional way. With the PDF download feature, Resforger allows users to obtain their resumes easily. 
