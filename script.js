@@ -27,7 +27,7 @@ document.getElementById('resumeForm').addEventListener('submit', function(e) {
     <p>${awards}</p>
   `;
 
-  // 🔧 Suggestions logic – now inside the form handler
+  // Suggestions logic
   const suggestions = [];
   if (skills.length < 4) suggestions.push("Add more skills to better showcase your abilities.");
   if (!education.includes(",")) suggestions.push("Consider adding more educational details.");
