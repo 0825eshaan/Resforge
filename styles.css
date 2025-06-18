@@ -531,3 +531,9 @@ textarea {
     display: none;
   }
 }
+
+html, body {
+    background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%);
+    overscroll-behavior: none;
+    min-height: 100vh;
+}
