@@ -1,4 +1,4 @@
-# ResForge
+# Resforge
 ResForge is a web app that lets users input their personal details, experiences, and skills to generate a polished, downloadable resume along with suggestions for improvement.
 
 ## Features
