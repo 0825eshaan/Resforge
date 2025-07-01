@@ -1,2 +1,14 @@
-# resforge
-Resforge is a platform that enables users to easily create and refine their resumes. Resforge offers tools and editable templates to enable you to present your skills, experience, and accomplishments in a competent and professional way. PDF download will be integrated soon with html2pdf.js.
+# ResForge
+ResForge is a web app that lets users input their personal details, experiences, and skills to generate a polished, downloadable resume along with suggestions for improvement.
+
+## Features
+- Guided resume builder with input sections for education, work, projects, and skills
+- Automatic resume generation and formatting
+- Downloadable PDF output
+- Suggestions to improve clarity, structure, and impact
+- Option to preview before exporting
+
+## Tech Stack
+- html2pdf 
+
+
