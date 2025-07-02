@@ -8,7 +8,5 @@ ResForge is a web app that lets users input their personal details, experiences,
 - Suggestions to improve clarity, structure, and impact
 - Option to preview before exporting
 
-## Tech Stack
-- html2pdf 
 
 
